@@ -3,7 +3,7 @@ module github.com/Nviswateja/CustomerCLient
 go 1.18
 
 require (
-	github.com/Nviswateja/CustomerTrackerService v0.0.0-20220503070736-6334c7609661
+	github.com/Nviswateja/CustomerTrackerService v0.0.0-20220503092726-f669e446f5bd
 	google.golang.org/grpc v1.46.0
 )
 

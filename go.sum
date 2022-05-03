@@ -5,6 +5,8 @@ github.com/Nviswateja/CustomerTrackerService v0.0.0-20220502111416-55a167084a8a 
 github.com/Nviswateja/CustomerTrackerService v0.0.0-20220502111416-55a167084a8a/go.mod h1:lnNsrEbyqr9fAXj7EZ0SkUMbcijv2wUfniKoARyM+d0=
 github.com/Nviswateja/CustomerTrackerService v0.0.0-20220503070736-6334c7609661 h1:KXUIbHdfW6sBztFYHmofQ6a75pfN/sAvM1k5TQvM6a0=
 github.com/Nviswateja/CustomerTrackerService v0.0.0-20220503070736-6334c7609661/go.mod h1:lnNsrEbyqr9fAXj7EZ0SkUMbcijv2wUfniKoARyM+d0=
+github.com/Nviswateja/CustomerTrackerService v0.0.0-20220503092726-f669e446f5bd h1:74X65+tzThC7PgTU6GVlDB2FeW46KeLEXwYTIL8JzXs=
+github.com/Nviswateja/CustomerTrackerService v0.0.0-20220503092726-f669e446f5bd/go.mod h1:zGaSe4Zsx7nwKUXaKNfoe2tIlgq0QiIcl54Ts5+49XU=
 github.com/antihax/optional v1.0.0/go.mod h1:uupD/76wgC+ih3iEmQUL+0Ugr19nfwCT1kdvxnR2qWY=
 github.com/census-instrumentation/opencensus-proto v0.2.1/go.mod h1:f6KPmirojxKA12rnyqOA5BBL4O983OfeGPqjHWSTneU=
 github.com/cespare/xxhash/v2 v2.1.1/go.mod h1:VGX0DQ3Q6kWi7AoAeZDth3/j3BFtOZR5XLFGgcrjCOs=
